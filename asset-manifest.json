@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/proyreactm8jfm/static/css/main.fdc05c10.chunk.css",
+    "main.js": "/proyreactm8jfm/static/js/main.c91ce522.chunk.js",
+    "main.js.map": "/proyreactm8jfm/static/js/main.c91ce522.chunk.js.map",
+    "runtime-main.js": "/proyreactm8jfm/static/js/runtime-main.220427dd.js",
+    "runtime-main.js.map": "/proyreactm8jfm/static/js/runtime-main.220427dd.js.map",
+    "static/js/2.68da2e82.chunk.js": "/proyreactm8jfm/static/js/2.68da2e82.chunk.js",
+    "static/js/2.68da2e82.chunk.js.map": "/proyreactm8jfm/static/js/2.68da2e82.chunk.js.map",
+    "index.html": "/proyreactm8jfm/index.html",
+    "static/css/main.fdc05c10.chunk.css.map": "/proyreactm8jfm/static/css/main.fdc05c10.chunk.css.map",
+    "static/js/2.68da2e82.chunk.js.LICENSE.txt": "/proyreactm8jfm/static/js/2.68da2e82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.220427dd.js",
+    "static/js/2.68da2e82.chunk.js",
+    "static/css/main.fdc05c10.chunk.css",
+    "static/js/main.c91ce522.chunk.js"
+  ]
+}
